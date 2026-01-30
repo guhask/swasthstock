@@ -398,7 +398,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Email**: guha.sumitk@gmail.com  
-**Phone**: +91-7285939461 
+**Phone**: +91-7285939461
+
 **GitHub**: github.com/guhask/swasthstock  
 **LinkedIn**: linkedin.com/in/sumitkguha/
 

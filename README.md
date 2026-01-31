@@ -110,7 +110,7 @@ Indian hospitals face a critical dual crisis:
 
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/swasthstock.git
+git clone https://github.com/guhask/swasthstock.git
 cd swasthstock
 
 # Install dependencies
@@ -132,7 +132,7 @@ python run_demo.py
 ### Sample Output
 
 ```
-SWASTHSTOCK AI - COMPLETE DEMO
+SWASTHSTOCK - COMPLETE DEMO
 ═══════════════════════════════════════════════════════════
 
 ✅ Model Training Complete!
@@ -169,7 +169,7 @@ ROI: 26.0x (SwasthStock costs ₹50,000/year)
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/[your-username]/swasthstock.git
+git clone https://github.com/guhask/swasthstock.git
 cd swasthstock
 ```
 
@@ -370,7 +370,7 @@ print(expiry_alerts)
 
 ## 🤝 Contributing
 
-We welcome contributions! This is an open-source project aimed at solving India's healthcare supply chain crisis.
+We welcome contributions! SwasthStock is open source (MIT License) to ensure transparency and enable healthcare innovation. While the code is free, we provide paid SaaS hosting, implementation services, and hospital network integration to make deployment seamless for government hospitals.
 
 ### How to Contribute
 
@@ -408,11 +408,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🙏 Acknowledgments
-
-- **Health in Pixels 2025** for the opportunity
-- **Hospital procurement officers** in Lucknow for validation
-- **National Health Mission** for inspiration
-- **Ayushman Bharat Digital Mission** for integration standards
+- **National Health Systems Resource Centre (NHSRC)** for public health data
+- **Ministry of Health & Family Welfare** for healthcare statistics
+- **NITI Aayog** for health survey reports
+- **Ayushman Bharat Digital Mission (ABDM)** for integration standards
+- **National Health Mission** for inspiring healthcare transformation goals
 
 ---
 

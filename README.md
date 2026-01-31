@@ -2,7 +2,7 @@
 
 **AI-Powered Medicine Inventory Management for Indian Hospitals**
 
-[![Watch Demo Video](https://img.shields.io/badge/🎥_Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Watch Demo Video](https://img.shields.io/badge/🎥_Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/Um0k8nlPtGo)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

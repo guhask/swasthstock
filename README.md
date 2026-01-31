@@ -1,10 +1,8 @@
-# 🏥 SwasthStock - AI for Atmanirbhar Healthcare Supply Chain
+# 🏥 SwasthStock
 
 **AI-Powered Medicine Inventory Management for Indian Hospitals**
 
-> 🎥 **[Watch 3-Minute Demo Video](https://youtu.be/Um0k8nlPtGo)**
-
-[![SwasthStock Demo](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/Um0k8nlPtGo)
+[![Watch Demo Video](https://img.shields.io/badge/🎥_Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

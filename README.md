@@ -359,12 +359,12 @@ print(expiry_alerts)
 ## 👥 Team
 
 **SwasthStock Team**
-- Sumit Guha - AI/ML Engineer, Founder
-- Naresh P - Full-Stack Developer (if applicable)
+- Sumit Guha - AI/ML Lead, Founder
+- Naresh P - AI/ML Architect, Co-Founder 
 
-**Mentors:**
-- Health in Pixels 2025 Cohort Mentors
-- Hospital Procurement Officers (advisors)
+**Seeking Mentorship:**
+- Applying to Health in Pixels 2025 for cohort support
+- Open to guidance from hospital procurement experts
 
 ---
 

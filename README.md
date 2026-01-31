@@ -52,7 +52,7 @@ Indian hospitals face a critical dual crisis:
 - Duplicate orders go undetected
 - Reactive purchasing instead of proactive planning
 
-**Validated with 5 procurement officers from Lucknow district hospitals** - all confirmed losing ₹2-5 lakhs monthly on expired medicines.
+**Problem validated through government reports: ** - NHSRC studies show 15-20% medicine waste, MoHFW data indicates ₹10,000 Cr annual loss, and NITI Aayog surveys document 40%+ stockout rates in rural areas.
 
 ---
 
@@ -398,8 +398,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Email**: guha.sumitk@gmail.com  
-**Phone**: +91-7285939461
-
+**Phone**: +91-7285939461 
 **GitHub**: github.com/guhask/swasthstock  
 **LinkedIn**: linkedin.com/in/sumitkguha/
 

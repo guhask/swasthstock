@@ -52,7 +52,7 @@ Indian hospitals face a critical dual crisis:
 - Duplicate orders go undetected
 - Reactive purchasing instead of proactive planning
 
-** Problem validated through government reports: ** - NHSRC studies show 15-20% medicine waste, MoHFW data indicates ₹10,000 Cr annual loss, and NITI Aayog surveys document 40%+ stockout rates in rural areas.
+**Problem validated through government reports:** - NHSRC studies show 15-20% medicine waste, MoHFW data indicates ₹10,000 Cr annual loss, and NITI Aayog surveys document 40%+ stockout rates in rural areas.
 
 ---
 
